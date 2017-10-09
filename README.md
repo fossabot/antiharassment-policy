@@ -19,7 +19,11 @@ Resources for policies/starting points:
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fantiharassment-policy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fantiharassment-policy?ref=badge_shield)
+Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fantiharassment-policy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fantiharassment-policy?ref=badge_large)
 
 ## Discuss
 
